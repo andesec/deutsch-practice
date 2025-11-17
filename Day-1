@@ -1,0 +1,293 @@
+<div style="font-family:Arial; padding:18px; line-height:1.5;">
+
+<h1>📘 Thema: Persönliche Erfahrungen & Vergangenheit</h1>
+<p style="font-size:14px; color:#444;">Einfache Erklärungen (A1-A2) + B1 Beispiele. Tippen, klicken und lernen.</p>
+
+<!-- ========================= -->
+<!-- SECTION 1 – VOCABULARY SET -->
+<!-- ========================= -->
+
+<h2>1. 🧠 Großer Wortschatz – Persönliche Erfahrungen & Vergangenheit</h2>
+
+<style>
+.word-card {
+  border:1px solid #ddd;
+  padding:10px;
+  border-radius:8px;
+  margin:10px 0;
+  background:#fafafa;
+}
+.word-head {
+  font-weight:bold; 
+  font-size:16px;
+}
+.ex {
+  color:#333;
+  font-size:14px;
+}
+.toggle-btn {
+  background:#e0e0e0;
+  padding:5px 10px;
+  border-radius:5px;
+  cursor:pointer;
+  font-size:12px;
+}
+.hidden { display:none; }
+</style>
+
+<script>
+function toggle(id){
+  const el=document.getElementById(id);
+  el.classList.toggle("hidden");
+}
+</script>
+
+<h3>📍 25–40 Nomen</h3>
+
+<div id="nouns">
+<!-- Repeatable card structure -->
+<div class="word-card">
+  <div class="word-head">die Erinnerung – memory</div>
+  <div class="ex">Bsp: <i>Diese Reise bleibt eine schöne Erinnerung.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Kindheit – childhood</div>
+  <div class="ex">Bsp: <i>In meiner Kindheit habe ich viel draußen gespielt.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Jugend – youth</div>
+  <div class="ex">Bsp: <i>Meine Jugend war ruhig, aber sehr prägend.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">das Erlebnis – experience (event)</div>
+  <div class="ex">Bsp: <i>Der Umzug ins Ausland war ein großes Erlebnis.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Erfahrung – experience (knowledge)</div>
+  <div class="ex">Bsp: <i>Ich habe viel Berufserfahrung im Kundenservice.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Vergangenheit – past</div>
+  <div class="ex">Bsp: <i>Er spricht selten über seine Vergangenheit.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Zukunft – future</div>
+  <div class="ex">Bsp: <i>Ich mache mir viele Gedanken über meine Zukunft.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Entscheidung – decision</div>
+  <div class="ex">Bsp: <i>Die Entscheidung war schwer, aber richtig.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">der Fehler – mistake</div>
+  <div class="ex">Bsp: <i>Aus jedem Fehler lernt man etwas Wichtiges.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">der Erfolg – success</div>
+  <div class="ex">Bsp: <i>Der Abschluss meines Studiums war ein großer Erfolg.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Schwierigkeit – difficulty</div>
+  <div class="ex">Bsp: <i>Am Anfang hatte ich viele Schwierigkeiten mit der Sprache.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">der Traum – dream</div>
+  <div class="ex">Bsp: <i>Einmal wollte ich Pilot werden – das war mein großer Traum.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">der Wunsch – wish</div>
+  <div class="ex">Bsp: <i>Mein Wunsch war es, selbstständig zu werden.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Hoffnung – hope</div>
+  <div class="ex">Bsp: <i>Ich habe die Hoffnung nie verloren.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">das Ziel – goal</div>
+  <div class="ex">Bsp: <i>Mein Ziel war es, besser Deutsch zu sprechen.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Reise – trip</div>
+  <div class="ex">Bsp: <i>Die Reise nach Berlin hat mein Leben verändert.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">das Abenteuer – adventure</div>
+  <div class="ex">Bsp: <i>Meine erste Solo-Reise war ein echtes Abenteuer.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Prüfung – exam</div>
+  <div class="ex">Bsp: <i>Die B1-Prüfung war eine wichtige Erfahrung.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Lektion – lesson</div>
+  <div class="ex">Bsp: <i>Diese Situation war eine harte Lektion.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">der Verlust – loss</div>
+  <div class="ex">Bsp: <i>Der Verlust meines Jobs war am Anfang schwer.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Veränderung – change</div>
+  <div class="ex">Bsp: <i>Der Umzug war eine große Veränderung für mich.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">das Verhältnis – relationship/connection</div>
+  <div class="ex">Bsp: <i>Mein Verhältnis zu meiner Familie ist gut.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Erinnerungslücke – memory gap</div>
+  <div class="ex">Bsp: <i>Nach dem Unfall hatte er eine kleine Erinnerungslücke.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">die Gewohnheit – habit</div>
+  <div class="ex">Bsp: <i>Früh aufzustehen ist eine gute Gewohnheit geworden.</i></div>
+</div>
+</div>
+
+<h3>⚙️ 15–20 Verben</h3>
+
+<div class="word-card"><div class="word-head">erleben – to experience</div><div class="ex">Ich habe viel Neues erlebt.</div></div>
+<div class="word-card"><div class="word-head">erinnern (sich) – to remember</div><div class="ex">Ich erinnere mich gut an meine Schulzeit.</div></div>
+<div class="word-card"><div class="word-head">vergessen – to forget</div><div class="ex">Manche Dinge vergesse ich nie.</div></div>
+<div class="word-card"><div class="word-head">bereuen – to regret</div><div class="ex">Ich bereue keine Entscheidung.</div></div>
+<div class="word-card"><div class="word-head">verändern – to change</div><div class="ex">Die Reise hat mich verändert.</div></div>
+<div class="word-card"><div class="word-head">sich entwickeln – to develop</div><div class="ex">Ich habe mich beruflich gut entwickelt.</div></div>
+<div class="word-card"><div class="word-head">sich bemühen – to try hard</div><div class="ex">Ich habe mich sehr bemüht.</div></div>
+<div class="word-card"><div class="word-head">wachsen – to grow</div><div class="ex">Ich bin an meinen Herausforderungen gewachsen.</div></div>
+<div class="word-card"><div class="word-head">überstehen – to survive/get through</div><div class="ex">Wir haben viele Schwierigkeiten überstanden.</div></div>
+<div class="word-card"><div class="word-head">entscheiden – to decide</div><div class="ex">Ich habe mich für einen neuen Weg entschieden.</div></div>
+<div class="word-card"><div class="word-head">entdecken – to discover</div><div class="ex">Ich habe neue Interessen entdeckt.</div></div>
+<div class="word-card"><div class="word-head">vermissen – to miss</div><div class="ex">Ich habe meine Familie vermisst.</div></div>
+<div class="word-card"><div class="word-head">zweifeln – to doubt</div><div class="ex">Ich habe manchmal an mir gezweifelt.</div></div>
+<div class="word-card"><div class="word-head">hoffen – to hope</div><div class="ex">Ich habe immer auf eine bessere Zukunft gehofft.</div></div>
+
+<h3>✨ 15–20 Adjektive</h3>
+
+<div class="word-card"><div class="word-head">prägend – formative</div><div class="ex">Die Zeit in Berlin war sehr prägend.</div></div>
+<div class="word-card"><div class="word-head">unvergesslich – unforgettable</div><div class="ex">Der Moment war unvergesslich.</div></div>
+<div class="word-card"><div class="word-head">schwierig – difficult</div><div class="ex">Es war eine schwierige Phase.</div></div>
+<div class="word-card"><div class="word-head">mutig – brave</div><div class="ex">Die Entscheidung war mutig.</div></div>
+<div class="word-card"><div class="word-head">persönlich – personal</div><div class="ex">Es war eine sehr persönliche Erfahrung.</div></div>
+<div class="word-card"><div class="word-head">emotional – emotional</div><div class="ex">Der Abschied war emotional.</div></div>
+<div class="word-card"><div class="word-head">vertraut – familiar</div><div class="ex">Die Stadt wurde mir vertraut.</div></div>
+<div class="word-card"><div class="word-head">unsicher – uncertain</div><div class="ex">Am Anfang war ich unsicher.</div></div>
+<div class="word-card"><div class="word-head">entschlossen – determined</div><div class="ex">Ich war entschlossen, weiterzumachen.</div></div>
+
+<h3>🗣️ 15–20 Nützliche Redemittel</h3>
+
+<div class="word-card"><div class="word-head">in der Vergangenheit – in the past</div><div class="ex">In der Vergangenheit habe ich viel gelernt.</div></div>
+<div class="word-card"><div class="word-head">seit meiner Kindheit – since my childhood</div><div class="ex">Seit meiner Kindheit liebe ich Musik.</div></div>
+<div class="word-card"><div class="word-head">damals – back then</div><div class="ex">Damals hatte ich keine Ahnung.</div></div>
+<div class="word-card"><div class="word-head">früher – earlier / used to</div><div class="ex">Früher war ich sehr schüchtern.</div></div>
+<div class="word-card"><div class="word-head">im Laufe der Jahre – over the years</div><div class="ex">Im Laufe der Jahre bin ich selbstbewusster geworden.</div></div>
+<div class="word-card"><div class="word-head">eine wichtige Rolle spielen – to play an important role</div><div class="ex">Meine Familie spielt eine wichtige Rolle in meinem Leben.</div></div>
+<div class="word-card"><div class="word-head">eine Entscheidung treffen – to make a decision</div><div class="ex">Ich habe eine wichtige Entscheidung getroffen.</div></div>
+<div class="word-card"><div class="word-head">Erfahrungen sammeln – to gain experience</div><div class="ex">Ich wollte neue Erfahrungen sammeln.</div></div>
+<div class="word-card"><div class="word-head">es geschafft haben – to have made it</div><div class="ex">Am Ende habe ich es geschafft.</div></div>
+
+<!-- ========================= -->
+<!-- SECTION 2 – ESSENTIAL PHRASES -->
+<!-- ========================= -->
+
+<h2>2. 🗣️ Wichtige Sätze & Muster (B1)</h2>
+<p style="font-size:14px; color:#666;">Für flüssiges Sprechen über Vergangenheit.</p>
+
+<div class="word-card">
+  <div class="word-head">1. In meiner Vergangenheit habe ich oft...</div>
+  <div class="ex">Bsp: <i>In meiner Vergangenheit habe ich oft neue Städte besucht.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">2. Früher war ich jemand, der...</div>
+  <div class="ex">Bsp: <i>Früher war ich jemand, der selten Risiken eingegangen ist.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">3. Eine Erfahrung, die mich geprägt hat, war...</div>
+  <div class="ex">Bsp: <i>Eine Erfahrung, die mich geprägt hat, war mein erster Job.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">4. Damals habe ich nicht verstanden, dass...</div>
+  <div class="ex">Bsp: <i>Damals habe ich nicht verstanden, dass Veränderungen gut sein können.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">5. Seit meiner Kindheit habe ich den Wunsch...</div>
+  <div class="ex">Bsp: <i>Seit meiner Kindheit habe ich den Wunsch, zu reisen.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">6. Im Laufe der Jahre habe ich gelernt, dass...</div>
+  <div class="ex">Bsp: <i>Im Laufe der Jahre habe ich gelernt, dass Geduld wichtig ist.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">7. Rückblickend würde ich sagen, dass...</div>
+  <div class="ex">Bsp: <i>Rückblickend würde ich sagen, dass dieser Umzug notwendig war.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">8. Eine Sache, die ich nie vergessen werde, ist...</div>
+  <div class="ex">Bsp: <i>Eine Sache, die ich nie vergessen werde, ist mein erster Flug.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">9. Ich bereue, dass ich früher nicht...</div>
+  <div class="ex">Bsp: <i>Ich bereue, dass ich früher nicht mehr gelernt habe.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">10. Es gab eine Phase, in der...</div>
+  <div class="ex">Bsp: <i>Es gab eine Phase, in der ich sehr unsicher war.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">11. Eine wichtige Entscheidung war...</div>
+  <div class="ex">Bsp: <i>Eine wichtige Entscheidung war mein Berufswechsel.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">12. Ich habe damals nicht gewusst, dass...</div>
+  <div class="ex">Bsp: <i>Ich habe damals nicht gewusst, dass ich so viel schaffen kann.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">13. Mit der Zeit habe ich verstanden, dass...</div>
+  <div class="ex">Bsp: <i>Mit der Zeit habe ich verstanden, dass Fehler normal sind.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">14. Das war eine Erfahrung, die ich jedem empfehlen würde.</div>
+  <div class="ex">Bsp: <i>Mein Auslandsjahr war eine Erfahrung, die ich jedem empfehlen würde.</i></div>
+</div>
+
+<div class="word-card">
+  <div class="word-head">15. Es hat mich viel Mut gekostet, aber...</div>
+  <div class="ex">Bsp: <i>Es hat mich viel Mut gekostet, aber ich habe neu angefangen.</i></div>
+</div>
+
+</div>
